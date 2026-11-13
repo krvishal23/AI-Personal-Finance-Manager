@@ -1,0 +1,6 @@
+{
+  "name": "Ledgerly",
+  "description": "AI-powered personal finance manager for tracking daily expenses and unlocking monthly budget insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
